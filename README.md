@@ -84,34 +84,25 @@ Aplikasi ini dikembangkan sebagai proyek Ujian Akhir Semester (UAS) mata kuliah 
 
 # 📷 Screenshot Aplikasi
 
-## 1. Halaman Login
+## Halaman Login
 
 ![Login](assets/login.png)
 
----
-
-## 2. Dashboard
+## Dashboard
 
 ![Dashboard](assets/dashboard.png)
 
----
-
-## 3. Tambah Buku
+## Tambah Buku
 
 ![Tambah Buku](assets/tambah-buku.png)
 
----
-
-## 4. Daftar Buku
+## Daftar Buku
 
 ![Daftar Buku](assets/daftar-buku.png)
 
----
-
-## 5. Edit Buku
+## Edit Buku
 
 ![Edit Buku](assets/edit-buku.png)
-
 ---
 
 # 🗄 Struktur Database
